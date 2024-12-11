@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wassim
-- 👀 I’m a computer systemes engineering student
-- 🌱 I’m currently learning flutter apps development
-- 📫 How to reach me : wassimgueddari13@gmail.com
+- 👀 I’m A Computer Systemes Engineering Student
+- 🌱 I’m Currently Learning Flutter Apps Development
+- 📫 How To Reach Me : wassimgueddari13@gmail.com
